@@ -1,4 +1,4 @@
-# :sparkles: AI를 위한 머신러닝 (2024-2) :sparkles:
+# :sparkles: Machine Learning for AI (2024-2) :sparkles:
 
 ## :paperclip: Repository for AL4ML class
    
