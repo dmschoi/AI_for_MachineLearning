@@ -1,6 +1,6 @@
 # :sparkles: AI를 위한 머신러닝 (2024-2) :sparkles:
 
-## :mag_right: Repository for AL4ML class
+## :paperclip: Repository for AL4ML class
    
 **[ Author ]**
 | 최은서 |
@@ -8,7 +8,8 @@
 |<img src="https://avatars.githubusercontent.com/u/127280706?v=4" width="150" height="150"/>|
 |[@dmschoi](https://github.com/dmschoi)|
 
-Course Period: 2024.09 - 2024.12   
+**[ Course Period ]**    
+2024.09 - 2024.12   
    
 ## :page_facing_up: Content
 ### :magic_wand: Week1
