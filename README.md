@@ -2,7 +2,7 @@
 
 ## :mag_right: Repository for AL4ML class
    
-Author:
+**[ Author ]**
 | 최은서 |
 |:-:|
 |<img src="https://avatars.githubusercontent.com/u/127280706?v=4" width="150" height="150"/>|
@@ -11,9 +11,9 @@ Author:
 Course Period: 2024.09 - 2024.12   
    
 ## :page_facing_up: Content
-#### :eight_spoked_asterisk: Week1
+### :magic_wand: Week1
 - In the first week, I set up my GitHub account and learned how to use Colab.
 - I also learned Markdown syntax. I think I will be able to use this usefully when writing Velog or GitHub Readme.
-### :eight_spoked_asterisk: Week2
+### :magic_wand: Week2
 - 
-### :eight_spoked_asterisk: Week3
+### :magic_wand: Week3
